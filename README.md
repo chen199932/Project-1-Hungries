@@ -4,8 +4,6 @@ Georgia Tech Bootcamp Project One - Frontend Development.
 
 Hungries is a restaurant finder in three easy steps using Google maps and Zamato API.
 
-## Demo
-
 
 ## Technologies
 
@@ -19,7 +17,7 @@ Hungries is a restaurant finder in three easy steps using Google maps and Zamato
 
 The user will have the option to find their location or add their current address.
 * If the user clicks "Find My Location" it will display their exact location.
-* If user decides to write their address it will display their location.
+* If user decides to write their address it will display that location.
 
 
 Also have the option to choose the radius of how far they're willing to search for a restaurant.
@@ -34,6 +32,8 @@ the restaurants they search.
 
 
 ## Authors
-
 https://github.com/chen199932
+
+## Deployed Site
+https://chen199932.github.io/Project-1-Hungries/
 
